@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf3e348e-a45a-4d0f-9e90-7e4de5baa2ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/pr_1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/pr_2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/pr_3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/pr_4.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/pr_5.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/pr_1$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/pr_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/pr_2$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/pr_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/pr_3$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/pr_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/pr_4$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/pr_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/pr_5$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/pr_5.class" afterDir="false" />
+    <list default="true" id="bf3e348e-a45a-4d0f-9e90-7e4de5baa2ab" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/pr_6.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/pr_7.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/pr_8.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pr_1">
+  <component name="RunManager" selected="Application.pr_8">
     <configuration name="First_task" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="First_task" />
       <module name="lab_1" />
@@ -90,22 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pr_3" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="pr_3" />
+    <configuration name="pr_6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pr_6" />
       <module name="lab_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pr_4" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="pr_4" />
+    <configuration name="pr_7" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pr_7" />
       <module name="lab_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pr_5" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="pr_5" />
+    <configuration name="pr_8" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pr_8" />
       <module name="lab_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pr_8" />
+        <item itemvalue="Application.pr_7" />
+        <item itemvalue="Application.pr_6" />
         <item itemvalue="Application.pr_1" />
         <item itemvalue="Application.pr_2" />
-        <item itemvalue="Application.pr_5" />
-        <item itemvalue="Application.pr_4" />
-        <item itemvalue="Application.pr_3" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +118,14 @@
       <option name="presentableId" value="Default" />
       <updated>1617896674194</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1618925910197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618925910197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +196,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
